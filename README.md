@@ -1,6 +1,8 @@
 # Password-Generator
+Watch on ASCIINEMA: https://asciinema.org/a/550944
+
 This program help you generate the password.
-[Visit Now]( https://replit.com/@aditya0666/Password-generator?v=1) 🚀
+[Visit Now]( https://replit.com/@Brainhub24/PyGen#main.py?v=1.1) 🚀
 
 ### About the program
 - It's a basic python user input taken program and gives us the suitable password as we want.
@@ -18,5 +20,8 @@ This program help you generate the password.
 5. Have fun!!
 
 
-### Output
+### Output (Version 1 by @aditya-waghmare1)
 <img align="center" alt="output"  src="https://linuxhint.com/wp-content/uploads/2021/03/word-image-565.png" />
+
+### Output (Version 1.1 by @Brainhub24)
+
