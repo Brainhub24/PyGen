@@ -24,4 +24,4 @@ This program help you generate the password.
 <img align="center" alt="output"  src="https://linuxhint.com/wp-content/uploads/2021/03/word-image-565.png" />
 
 ### Output (Version 1.1 by @Brainhub24)
-
+<img align="center" alt="output"  src="https://github.com/Brainhub24/PyGen/blob/python/student%40DESKTOP-VPCG4P6_PyGen-test.png" />
